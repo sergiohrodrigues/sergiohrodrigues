@@ -1,4 +1,5 @@
 <h1>Olá! Eu me chamo Sérgio 👋</h1>
+<h4>Aqui no meu repositório estão alguns projetos que faço fora os que faço acompanhando nos cursos, espero que gostem.</h4>
 <br>
 <div align="center">
   <a href="https://github.com/sergiohrodrigues">

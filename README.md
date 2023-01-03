@@ -1,5 +1,5 @@
 <h1>Olá! Eu me chamo Sérgio 👋</h1>
-<h2>Aqui no meu repositório estão alguns projetos que faço fora os que faço acompanhando nos cursos, espero que gostem.</h2>
+<h2>Aqui no meu repositório estão alguns projetos que faço fora os que faço acompanhando os cursos da Alura, espero que gostem. :)</h2>
 <br>
 <div align="center">
   <a href="https://github.com/sergiohrodrigues">

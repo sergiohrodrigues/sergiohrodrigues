@@ -32,7 +32,7 @@ Comecei a estudar programação em maio de 2022, mas eu amo tecnologia desde mui
 <p align="left"> <a href="https://discord.com/users/Seergio#9733" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sergio.henrique.967/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sergiohrodrigues" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sergiorodriguesh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sergio-henrique-rodrigues-9722b5213/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-### My GitHub Stats
+### GitHub Stats
 
 <a href="http://www.github.com/sergiohrodrigues"><img src="https://github-readme-stats.vercel.app/api?username=sergiohrodrigues&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sergiohrodrigues's GitHub stats" /></a>
 

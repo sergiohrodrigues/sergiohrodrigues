@@ -9,7 +9,7 @@ Comecei a estudar programação em maio de 2022, mas eu amo tecnologia desde mui
 * 🌍  I'm based in Paraná - Brasil
 * 🖥️  See my portfolio at [portfolio](http://portfolio-72nudcgm3-sergiohrodrigues.vercel.app/)
 * ✉️  You can contact me at [sergiorodriguesh@gmail.com](mailto:sergiorodriguesh@gmail.com)
-* 🧠  I'm learning Typescript
+* 🧠  I'm learning SQL server
 * 🤝  I'm open to collaborating on projetos para adquirir experiência
 
 ### Skills

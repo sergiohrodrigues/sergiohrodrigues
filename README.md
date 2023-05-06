@@ -7,7 +7,7 @@ Desenvolvedor Front-end
 Comecei a estudar programação em maio de 2022, mas eu amo tecnologia desde muito cedo, estou estudando na ALURA, e já tenho vários certificados na área de desenvolvimento Front-end.
 
 * 🌍  I'm based in Paraná - Brasil
-* 🖥️  See my portfolio at [portfolio](http://portfolio-72nudcgm3-sergiohrodrigues.vercel.app/)
+* 🖥️  See my portfolio at [portfolio](https://portfolio-lyart-gamma-45.vercel.app/)
 * ✉️  You can contact me at [sergiorodriguesh@gmail.com](mailto:sergiorodriguesh@gmail.com)
 * 🧠  I'm learning SQL server
 * 🤝  I'm open to collaborating on projetos para adquirir experiência

@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolvedor Front-end
 -----------------------
 
-Comecei a estudar programação em maio de 2022, mas eu amo tecnologia desde muito cedo, estou estudando na ALURA, e já tenho vários certificados na área de desenvolvimento Front-end.
+Olá, sou Desenvolvedor Front-end, estou sempre adquirindo conhecimento com estudos, projetos pessoais, projetos profissionais, sou muito curioso em relação a tecnologias no geral, sempre gostei muito de computadores, jogos, etc.
 
-* 🌍  I'm based in Paraná - Brasil
+* 🌍  I'm based in Santa Catarina - Brasil
 * 🖥️  See my portfolio at [portfolio](https://portfolio-lyart-gamma-45.vercel.app/)
 * ✉️  You can contact me at [sergiorodriguesh@gmail.com](mailto:sergiorodriguesh@gmail.com)
-* 🧠  I'm learning Nextjs
-* 🤝  I'm open to collaborating on projetos para adquirir experiência
 
 ### Skills
 

@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergio Henrique Rodrigues.
 =========================================================================================================================================
 
-Desenvolvedor Front-end
+Sou Desenvolvedor Front-end, tenho experiência com alguns projetos pessoais, profissionais, sou muito curioso em relação a tecnologias no geral, estou sempre adquirindo conhecimento com cursos, documentações, livros, etc.
 -----------------------
-
-Olá, sou Desenvolvedor Front-end, estou sempre adquirindo conhecimento com estudos, projetos pessoais, projetos profissionais, sou muito curioso em relação a tecnologias no geral, sempre gostei muito de computadores, jogos, etc.
 
 * 🌍  I'm based in Santa Catarina - Brasil
 * 🖥️  See my portfolio at [portfolio](https://portfolio-lyart-gamma-45.vercel.app/)

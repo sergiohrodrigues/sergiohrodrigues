@@ -5,7 +5,7 @@ Sou Desenvolvedor Front-end, tenho experiência com alguns projetos pessoais, pr
 -----------------------
 
 * 🌍  I'm based in Santa Catarina - Brasil
-* 🖥️  See my portfolio at [portfolio](https://portfolio-lyart-gamma-45.vercel.app/)
+* 🖥️  See my portfolio at [portfolio]()
 * ✉️  You can contact me at [sergiorodriguesh@gmail.com](mailto:sergiorodriguesh@gmail.com)
 
 ### Skills

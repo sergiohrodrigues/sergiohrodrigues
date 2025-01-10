@@ -5,7 +5,7 @@ Sou Desenvolvedor Front-end, tenho experiência com alguns projetos pessoais, pr
 -----------------------
 
 * 🌍  I'm based in Santa Catarina - Brasil
-* 🖥️  See my at [portfolio](https://port-sergiohrodrigues-projects.vercel.app/)
+* 🖥️  See my at [portfolio](https://www.sergiohrodrigues.com/)
 * ✉️  You can contact me at [sergiorodriguesh@gmail.com](mailto:sergiorodriguesh@gmail.com)
 
 ### Skills
